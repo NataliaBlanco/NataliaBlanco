@@ -4,6 +4,6 @@ This is Nat, a new adventurer joining the tech world! I am ex-fashion buyer and 
 
 - 🌱 I’m forever learning in life ...
 - 💬 Ask me about anything my past and present, and foremost coding and web development. Please feel free to dig in on my portfolio ➡️[Natalia´s Portfolio](https://nataliablanco.github.io/portfolio)
-- 📫 How to reach me: nataliaouteiral@gmail.com
+- 📫 How to reach me: [Natalia Blanco](mailto:nataliaouteiral@gmail.com)
 - 😄 Pronouns: SHE/HER
 - You will also find  me on [Linkedin](https://www.linkedin.com/in/natalia-blanco-outeiral)
